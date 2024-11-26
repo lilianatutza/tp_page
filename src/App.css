@@ -8,12 +8,13 @@
 }
 
 h1 {
-  color: white;
+  color: red;
 }
 h2 {
   color: rgba(93, 9, 146, 0.822);
 }
 .buttons {
+  
   display: flex;
   gap: 3em;
   justify-content: center;
