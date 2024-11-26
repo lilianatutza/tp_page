@@ -24,16 +24,15 @@ const App = () => {
         <Videos />
         <Characters />
       </div>
-      
+
       <div>
         <p>Image with Great A'Tuin</p>
         <div>
-      <BodyText />
-      </div>
+          <BodyText />
+        </div>
         <p>Image with Ank Morpokh</p>
-        
       </div>
-      
+
       <div className="buttons">
         <DiscworldWorld />
         <VideoGame />
@@ -47,10 +46,7 @@ const App = () => {
             Liliana Tuta
           </a>
           , open-sourced on
-          <a
-            href="https://github.com/lilianatutza/Meteo-project-"
-            target="_blank"
-          >
+          <a href="https://github.com/lilianatutza/tp_page" target="_blank">
             {" "}
             GitHub{" "}
           </a>
